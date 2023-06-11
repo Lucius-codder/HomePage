@@ -1,0 +1,6 @@
+[submodule "submodules/Portal"]
+	path = submodules/Portal
+	url = https://github.com/Lucius-codder/Portal.git
+[submodule "submodules/BookKeeping"]
+	path = submodules/BookKeeping
+	url = https://github.com/Lucius-codder/BookKeeping.git
